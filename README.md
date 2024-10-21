@@ -7,7 +7,8 @@ Here's an explanation of the architecture diagram for the AWS infrastructure tha
 
 # This is the result of the Architetural drawing according to the project
 
-![Untitled Diagram-Page-1 (1)](https://github.com/user-attachments/assets/9b61f789-5a61-488d-bb88-06ac0886ee53)
+![Untitled Diagram-Page-1 (2)](https://github.com/user-attachments/assets/d6e020e5-f882-4a7c-9d4b-d46c63e29478)
+
 
 
 
